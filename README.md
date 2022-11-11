@@ -1,3 +1,3 @@
 # hyd-Website
-Person Blog Website.
+Personal Blog Website.
 
