@@ -8,10 +8,23 @@
 
 p { color:blueviolet; }
 
+article {
+    display: grid;
+    grid-template-columns: 1fr minmax(0, 8.5in) 1fr;
+
+    height: 100vh;
+}
+
+article * {grid-column: 2/3; }
+
+
       </style>
    </head>
       <body>
-           <p>hello, world!</p>
+           <article>
+                <p>ARTICLE</p>
+           </article>
+           
         
       </body>
 </html>
