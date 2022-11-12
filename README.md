@@ -1,4 +1,8 @@
 # hyd-Website
 Personal Blog Website.
-Actively working
+
+- Game Review
+- Book Review
+- Photography 
+
 
