@@ -6,3 +6,7 @@ Personal Blog Website.
 - Photography 
 
 
+## To-Do:
+Domain Name
+
+
