@@ -3,7 +3,7 @@ Personal Blog Website.
 
 - Weekly hyd diary
 -- Every Sunday
-
+-- Monthly Gym Process, events, 
 
 
 
@@ -33,5 +33,5 @@ Personal Blog Website.
 
 ## To-Do:
 Domain Name
-
+Datebase? that stores previous updates
 
