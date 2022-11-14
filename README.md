@@ -34,4 +34,5 @@ Personal Blog Website.
 ## To-Do:
 Domain Name
 Datebase? that stores previous updates
+More...
 
